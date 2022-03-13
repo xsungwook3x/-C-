@@ -6,7 +6,8 @@ namespace assignment1_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            System.Console.WriteLine("Keep Checking Carefully~!");     //fixed a error
+            System.Console.WriteLine("You will find the error soon!"); // fixed a error
         }
     }
 }
