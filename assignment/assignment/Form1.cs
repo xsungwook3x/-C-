@@ -17,19 +17,22 @@ namespace assignment
             InitializeComponent();
         }
 
-        private void form1_Road(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
-            label1.Text = "Welcome Message!";
+            message.Text = "Welcome Message!";
         }
 
-        private void button1_Click(object sender, EventArgs e)
+
+        private void okBTN_Click(object sender, EventArgs e)
         {
-            label1.Text = "You Clicked on OK!";
+            message.Text = "You Clicked on OK!";
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void exitBTN_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
+
+        
     }
 }
