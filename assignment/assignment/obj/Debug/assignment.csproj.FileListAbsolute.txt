@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\컴공\-C-\assignment\assignment\bin\Debug\assignment.exe.config
+C:\Users\USER\Desktop\컴공\-C-\assignment\assignment\bin\Debug\assignment.exe
+C:\Users\USER\Desktop\컴공\-C-\assignment\assignment\bin\Debug\assignment.pdb
+C:\Users\USER\Desktop\컴공\-C-\assignment\assignment\obj\Debug\assignment.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\컴공\-C-\assignment\assignment\obj\Debug\assignment.Form1.resources
+C:\Users\USER\Desktop\컴공\-C-\assignment\assignment\obj\Debug\assignment.Properties.Resources.resources
+C:\Users\USER\Desktop\컴공\-C-\assignment\assignment\obj\Debug\assignment.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\컴공\-C-\assignment\assignment\obj\Debug\assignment.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\컴공\-C-\assignment\assignment\obj\Debug\assignment.exe
+C:\Users\USER\Desktop\컴공\-C-\assignment\assignment\obj\Debug\assignment.pdb
